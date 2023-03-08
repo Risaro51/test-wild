@@ -12,7 +12,7 @@ export default function Home() {
           <h3 className="Presentation">
             Mon test consiste à pouvoir rentrer des citations dans un
             formulaire, les citations seront stockées dans une base de donnée et
-            nous auront accès à la liste des citations déjà enregistées
+            nous auront accès à la liste des citations déjà enregistrées
           </h3>
         </div>
         <div className="Homepagediv">
