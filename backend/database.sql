@@ -1,6 +1,7 @@
-CREATE TABLE item (
+CREATE TABLE citation (
   id int(11) UNSIGNED PRIMARY KEY NOT NULL AUTO_INCREMENT,
-  title varchar(255) NOT NULL
+  text varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-INSERT INTO item (title) VALUES ('Stuff'), ('Doodads');
+INSERT INTO citation (text) VALUES ("L'Amour, c'est l'arôme de la vie");
+

@@ -1,0 +1,32 @@
+.Bodys {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.Homepagediv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10%;
+}
+.Totaldiv {
+  background-color: rgb(163, 163, 163);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.Presentation {
+  display: flex;
+  padding-top: 5%;
+  width: 70%;
+}
+
+.Presdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+}

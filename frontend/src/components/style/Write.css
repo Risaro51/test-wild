@@ -1,0 +1,17 @@
+.Labelcitation {
+  font-size: x-large;
+}
+
+.Totaldivs {
+  background-color: rgb(163, 163, 163);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Buttons {
+  height: 5rem;
+  width: 15rem;
+}

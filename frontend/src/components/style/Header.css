@@ -1,0 +1,19 @@
+.Header {
+  margin: 0;
+  background-color: rgb(217, 217, 217);
+  color: rgb(243, 187, 32);
+  height: 10%;
+  border-bottom: solid black 1px;
+}
+
+.Test {
+  margin: 0;
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.Py {
+  margin: 0;
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
